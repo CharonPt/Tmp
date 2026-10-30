@@ -19,3 +19,9 @@ http://172.31.2.216:8000/hit?src=selftest
 intent://#Intent;action=android.settings.SETTINGS;end
 
 market://home
+
+<a href="#" onclick="location.href='intent://...';return false;">点我</a>
+
+<a href="file:///sdcard/Download/probe_file.html">open file probe</a>
+
+<a href="/probe_file.html" download>download probe_file.html</a>
