@@ -27,3 +27,5 @@ market://home
 <a href="/probe_file.html" download>download probe_file.html</a>
 
 http://172.31.2.216:8000/m.html
+
+http://172.31.2.216:8000/auto
